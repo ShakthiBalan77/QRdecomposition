@@ -48,9 +48,7 @@ print("The R Matrix is \n",R)
 
 ## Output
 ```
-<img width="921" height="829" alt="Screenshot 2025-12-19 175017" src="https://github.com/user-attachments/assets/b97ba329-22cc-4ff3-892a-031a32927d03" />
-<img width="921" height="829" alt="Screenshot 2025-12-19 175017" src="https://github.com/user-attachments/assets/51f0bb7d-2d39-4eca-9590-e03744e2d5fb" />
-
+  <img width="921" height="829" alt="Screenshot 2025-12-19 175017" src="https://github.com/user-attachments/assets/51f0bb7d-2d39-4eca-9590-e03744e2d5fb" />
 ```
 
 ## Result
